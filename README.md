@@ -2,7 +2,7 @@
 iOS app that immediately resprings your device after you open it!
 
 # Support
-Untested on many versions, let me know if it works for your version!
+Up to the latest version!
 
 # Thanks
 - Ian Beer for the XPC crashing exploit
